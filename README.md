@@ -1,7 +1,9 @@
 # Jquery smooth parallax
 A clean parallax in jquery, simple to integrate, and totally responsive.
 
-Live Demo : [https://najdaoui.github.io/Jquery-smooth-parallax/](https://najdaoui.github.io/Jquery-smooth-parallax/).
+Original Author: https://github.com/Najdaoui
+
+Live Demo : [https://www.jqueryscript.net/demo/parallax-image-smooth/](https://www.jqueryscript.net/demo/parallax-image-smooth/).
 
 ## Getting Started
 
